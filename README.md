@@ -10,7 +10,7 @@ There is a json file containing all the programming languages known.
 
 1.  These languages are read from the file.
 2.  Loaded into a web page either all or one by id.
-3.  Two screenshots are given below where the first one loads the entire json file and the second one loads only one programming language.
+3.  Two screenshots are given below where the first one loads the entire json file and the second one loads only one programming language.  </br> </br>
 
 <b>Here are typical screenshots of the functionality:  </b> </br> </br>
 
